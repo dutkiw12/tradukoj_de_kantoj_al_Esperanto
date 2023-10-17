@@ -8,19 +8,23 @@ Tradukistoj:
 
 Życie się stało udręką
 Vivo estas turmento
+
 Przez twą piosenkę sprzed lat
 pro via malnov' kant'
+
 Pójdę do piekła z piosenką
 Mi iros al infer' kun la kant'
+
 Z twoją piosenką do piekła
 kun la kant' al infer'
+
 Ona jest we mnie i ze mną
 Ĝi estas en mi kaj kun mi
 Pójdę do piekła
 Iros mi tien
 Pójdę z nią
 Mi iros kun ĝi
-
+---------
 Słyszę ją wciąż i wszędzie
 Daŭre mi ĝin aŭdas
 Jest ze mną nawet w snach
@@ -33,7 +37,7 @@ Zagłusza sobą wszystko
 Ĉion la kant' surdigas
 Przesłania cały świat
 La mondon ĝi vualas  
-
+------------
 Życie się stało udręką
 Vivo estas turmento
 Przez twą piosenkę sprzed lat
@@ -48,7 +52,7 @@ Pójdę do piekła
 Iros mi tien
 Pójdę z nią
 Mi iros kun ĝi
-
+--------
 Przez złą piosenkę wreszcie
 La malbon' kanto fine 
 Sama się stałam zła

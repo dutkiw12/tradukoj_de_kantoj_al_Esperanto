@@ -20,24 +20,34 @@ kun la kant' al infer'
 
 Ona jest we mnie i ze mną
 Ĝi estas en mi kaj kun mi
+
 Pójdę do piekła
 Iros mi tien
+
 Pójdę z nią
 Mi iros kun ĝi
----------
+
+
 Słyszę ją wciąż i wszędzie
-Daŭre mi ĝin aŭdas
+Daŭre mi ĝin aŭdas 
+
 Jest ze mną nawet w snach
 daŭre mi sonĝas ĝin 
+
 I gra i łka wspomnieniem
 Ĝi kantas saŭdan kanton
+
 Niedobra smutna zła
 Malbona estas ĝi
+
 Zagłusza sobą wszystko
 Ĉion la kant' surdigas
+
 Przesłania cały świat
 La mondon ĝi vualas  
+
 ------------
+
 Życie się stało udręką
 Vivo estas turmento
 Przez twą piosenkę sprzed lat
@@ -71,9 +81,9 @@ Vivo estas turmento
 Przez twą piosenkę sprzed lat
 pro via malnov' kant'
 Pójdę do piekła z piosenką
-Mi iros al infer' kun la kant'
+Mi iros al infer' kun la kanto
 Z twoją piosenką do piekła
-kun la kant' al infer'
+kun la kanto al infer'
 Ona jest we mnie i ze mną
 Ĝi estas en mi kaj kun mi
 Pójdę do piekła
@@ -86,7 +96,7 @@ Pluvo frapas ĝin
 Nocą ją gwiżdże wiatr
 Nokte fajfas ĝin vent'
 I nawet słońce śpiewa
-Eĉ la sun' ĝin kantas 
+Eĉ la sun' kantas ĝin
 I nawet księżyc gra
 Eĉ la lun' ludas ĝin
 Zagłusza sobą wszystko

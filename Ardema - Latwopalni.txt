@@ -10,10 +10,10 @@ Tradukistoj:
  
 
 Znam ludzi z kamienia
-Mi konas ŝtonhomoj
+Mi konas ŝtonhomojn
 
 Co będą wiecznie trwać
-Eterne daŭros plu - Kiu estos eterna daŭri
+Eterne daŭros plu - Kiu estos eterna daŭri - Kiu estos daŭri eterne
 
 Znam ludzi z papieru
 hom' estas frivolaj - Mi konas paperhomoj
@@ -43,7 +43,7 @@ Wiem że można inaczej żyć
 oni vivas alie
 
 Oszukać okpić czas
-trompi primoki tempo 
+trompi primoki tempo - trompi, primoki tempon 
 
 Wiem jak zimno potrafi być
 Ofte estos malvarme - Mi scias ke oni frida povos esti (Mi scias kiel frida povas esti)
@@ -79,7 +79,7 @@ Wiesz w to miejsce czasami
 En tiu ĉi loko -  de tempo al tempo  (Tiu loko de tempo al tempo) 
 
 Odchodzi któryś z nas
-Foriros ĉiuj ni - Iu ajn el ni paŝas for
+Foriros ĉiuj ni - Iu ajn el ni paŝas for - forpasas iu el ni
 
 Odchodzi któryś z nas
 Foriros ĉiuj ni - Iu ajn el ni paŝas for

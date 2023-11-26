@@ -3,10 +3,11 @@ Traduka licenco: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Traduko baze de la kanto de A. Kudelski "Zabijasz mnie swoją piosenką." (Roberta Flack "Killing Me Softly With His Song").
 Tradukistoj:
   Palma Csiszar
+  Anna Tęcza
   Włodzimierz Dutkiewicz
 
 Rekantaĵo:
-  Vivo estas turmento
+  Viv' nun estas turmento
   pro via malnov' kant'
   Mi iros al infer' kun la kant'
   kun la kant' al infer'
@@ -17,7 +18,7 @@ Rekantaĵo:
 
 Daŭre mi ĝin aŭdas 
 daŭre mi sonĝas ĝin 
-Ĝi kantas saŭdan kanton
+Ĝi kantas tristan kanton
 Malbona estas ĝi
 Ĉion la kant' surdigas
 La mondon ĝi vualas  
@@ -25,16 +26,16 @@ La mondon ĝi vualas
 Rekantaĵo: ...
 
 La malbon' kanto fine 
-igis tian saman min 
-Mi ŝangos neniam neniam
+igis tiel saman min 
+Mi ŝanĝiĝos jam neniam
 La kanto estas mi
 Surdigas ĝi min tutan
-Ĉio ŝanĝos en la kant'
+La kanto estos ĉio
 
 Rekantaĵo: ...
 
 Pluvo frapas ĝin 
-Nokte fajfas ĝin vent'
+Nokte vent' fajfas ĝin 
 Eĉ la sun' kantas ĝin
 Eĉ la lun' ludas ĝin
 Surdigas ĉion ĝi
@@ -45,7 +46,7 @@ Rekantaĵo: ...
 Rekantaĵo: ...
 
 Tia estas viv' 
-turment' kaj lud' nur 
+turment' kaj ludo nur 
 Mi iros al infer' kun la kant'
 kun la kant' al infer'
 Ĝi estas en mi kaj kun mi
@@ -53,11 +54,8 @@ Iros mi tien
 Mi iros kun ĝi
 
 
-
-
 *****************************************
 *****************************************
-
 
 
 Życie się stało udręką
@@ -89,7 +87,7 @@ Jest ze mną nawet w snach
 daŭre mi sonĝas ĝin 
 
 I gra i łka wspomnieniem
-Ĝi kantas saŭdan kanton
+Ĝi kantas tristan kanton
 
 Niedobra smutna zła
 Malbona estas ĝi
@@ -103,7 +101,7 @@ La mondon ĝi vualas
 ------------
 
 Życie się stało udręką
-Vivo estas turmento
+Viv' nun estas turmento
 Przez twą piosenkę sprzed lat
 pro via malnov' kant'
 Pójdę do piekła z piosenką
@@ -120,24 +118,24 @@ Mi iros kun ĝi
 Przez złą piosenkę wreszcie
 La malbon' kanto fine 
 Sama się stałam zła
-igis tian saman min 
+igis tiel saman min 
 I nigdy się nie zmienię
-Mi ŝangos neniam neniam
+Mi ŝanĝios jam neniam
 Piosenka będzie mną
 La kanto estas mi
 Zagłuszy we mnie wszystko
 Surdigas ĝi min tutan
 Wszystko się zmieni w nią
-Ĉio ŝanĝos en la kant'
+La kanto estos ĉio
 
 Życie się stało udręką
-Vivo estas turmento
+Viv' nun estas turmento
 Przez twą piosenkę sprzed lat
 pro via malnov' kant'
 Pójdę do piekła z piosenką
-Mi iros al infer' kun la kanto
+Mi iros al infer' kun la kant'
 Z twoją piosenką do piekła
-kun la kanto al infer'
+kun la kant' al infer'
 Ona jest we mnie i ze mną
 Ĝi estas en mi kaj kun mi
 Pójdę do piekła
@@ -159,7 +157,7 @@ Przesłania cały świat
 La mondon ĝi vualas  
 
 Życie się stało udręką
-Vivo estas turmento
+Viv' nun estas turmento
 Przez twą piosenkę sprzed lat
 pro via malnov' kant'
 Pójdę do piekła z piosenką
@@ -174,7 +172,7 @@ Pójdę z nią
 Mi iros kun ĝi
 
 Życie się stało udręką
-Vivo estas turmento
+Viv' nun estas turmento
 Przez twą piosenkę sprzed lat
 pro via malnov' kant'
 Pójdę do piekła z piosenką

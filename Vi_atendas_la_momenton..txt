@@ -1,12 +1,12 @@
-Vi atendas ĉi momenton. (Pola titolo: Czekasz na tę jedną chwilę).
+Vi atendas la momenton. (Pola titolo: Czekasz na tę jedną chwilę).
 Traduka licenco: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 Traduko baze de la kanto de Bogdan Olewicz "Czekasz na tę jedną chwilę".
-Tradukistoj:
+Esperantigoj:
   Zuzanna Kornicka
   Palma Csiszar
   Włodzimierz Dutkiewicz
 
-Vi atendas ĉi momenton.
+Vi atendas la momenton.
 Via kor' freneze frapas
 Mi komprenis vivan sencon
 Kaj vi sentas kiel mi
@@ -48,13 +48,13 @@ Ej za krótko trwa godzina,
 Pli mallonge daŭras horo,
 
 Niech się chwila ta zatrzyma,
-Haltigu tiun ĉi momenton, 
+Haltigu tiun minuton, 
 
 Moim szczęściem chcę nakarmić,
 Haltigu nian momenton
 
 Calutki świat zdziwiony tak.
-feliĉan, serenan
+tiel feliĉan, tiel serenan
 
 Wielka miłość nie wybiera,
 Granda amo ne elektas,
